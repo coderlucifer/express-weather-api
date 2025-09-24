@@ -1,8 +1,12 @@
 import express from "express";
 import { fetchWeatherApi } from "openmeteo";
+import cors from "cors";
+
+
 
 const app = express();
 const port = process.env.PORT || 3000;
+app.use(cors()); 
 
 // Root route for testing
 app.get("/", (req, res) => {
