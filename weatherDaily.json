@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2025-09-01",
+    "temperature_2m": 19.985249837239582,
+    "relative_humidity_2m": 61.50081125895182,
+    "precipitation": 0,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-02",
+    "temperature_2m": 18.87066642443339,
+    "relative_humidity_2m": 74.43722502390544,
+    "precipitation": 3.4000000953674316,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-03",
+    "temperature_2m": 19.40399968624115,
+    "relative_humidity_2m": 60.8482993443807,
+    "precipitation": 0,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-04",
+    "temperature_2m": 22.168583154678345,
+    "relative_humidity_2m": 56.061333974202476,
+    "precipitation": 0,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-05",
+    "temperature_2m": 18.72483305136363,
+    "relative_humidity_2m": 71.52262512842815,
+    "precipitation": 7.799999892711639,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-06",
+    "temperature_2m": 16.50608305136363,
+    "relative_humidity_2m": 71.75246953964233,
+    "precipitation": 0.30000000447034836,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-07",
+    "temperature_2m": 17.385249654452007,
+    "relative_humidity_2m": 63.648704846700035,
+    "precipitation": 0,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-08",
+    "temperature_2m": 17.476916432380676,
+    "relative_humidity_2m": 64.53369601567586,
+    "precipitation": 0,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-09",
+    "temperature_2m": 18.02899980545044,
+    "relative_humidity_2m": 71.56753730773926,
+    "precipitation": 0.5000000074505806,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-10",
+    "temperature_2m": 17.785249789555866,
+    "relative_humidity_2m": 75.1281665166219,
+    "precipitation": 2.000000022351742,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-11",
+    "temperature_2m": 16.52483304341634,
+    "relative_humidity_2m": 76.2870504061381,
+    "precipitation": 1.300000011920929,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-12",
+    "temperature_2m": 15.52899956703186,
+    "relative_humidity_2m": 68.84756024678548,
+    "precipitation": 4.900000020861626,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-13",
+    "temperature_2m": 14.845666408538818,
+    "relative_humidity_2m": 72.72165997823079,
+    "precipitation": 2.700000047683716,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-14",
+    "temperature_2m": 15.46024982134501,
+    "relative_humidity_2m": 68.52841011683147,
+    "precipitation": 0.7000000104308128,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-15",
+    "temperature_2m": 17.27899972597758,
+    "relative_humidity_2m": 71.45672194163005,
+    "precipitation": 16.699999913573265,
+    "soil_moisture_1_to_3cm": null
+  },
+  {
+    "date": "2025-09-16",
+    "temperature_2m": 15.989416321118673,
+    "relative_humidity_2m": 58.833632151285805,
+    "precipitation": 4.800000190734863,
+    "soil_moisture_1_to_3cm": null
+  }
+]
